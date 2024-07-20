@@ -1,4 +1,4 @@
-![My Logo](https://github.com/Anindit-123/NYC_Anindit/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).jpg?raw=true)
+![My Logo](https://github.com/NYCAnindit/NYCAnindit/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Anindit Ghosh</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
